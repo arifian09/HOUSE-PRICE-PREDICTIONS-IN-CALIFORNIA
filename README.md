@@ -36,10 +36,10 @@ Kita bisa mengatakan catboost adalah algoritma terbaik menurut evaluasi matriks 
 
 ![image](https://github.com/arifian09/HOUSE-PRICE-PREDICTIONS-IN-CALIFORNIA/assets/151009269/e1431339-9b0e-4376-8c80-66b8fcb8bfd8)
 
-Untuk rekomendasi, penjelasannya seperti yang dislide atas. Ini tentu dari sudut pandang data scientist. untuk mendapatkan konklusi yang utuh, kita perlu mendengar saran dari divisi lain lalu kita rembukan formula terbaik
+Untuk rekomendasi, penjelasannya seperti yang dislide atas. Ini tentu dari sudut pandang data scientist. untuk mendapatkan konklusi yang utuh, kita perlu mendengar saran dari divisi lain lalu kita rembukan formula terbaik.
 
 ![image](https://github.com/arifian09/HOUSE-PRICE-PREDICTIONS-IN-CALIFORNIA/assets/151009269/a24047c6-b2d7-4c94-b78b-1aa48ec18603)
-
+Terimakasih
 
 
 
